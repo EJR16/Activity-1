@@ -1,2 +1,4 @@
 Name: Erick John C. Ramoran
 Age: 19
+Birthday: July 16, 1999
+Birthplace: Manila
