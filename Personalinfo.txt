@@ -10,3 +10,6 @@ Primary
 
 Highschool
 -La Consolacion College Valenzuela
+
+College
+-University of Santo Tomas
